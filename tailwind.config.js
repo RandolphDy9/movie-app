@@ -15,6 +15,12 @@ module.exports = {
       },
       gridTemplateColumns: {
         fluid: 'repeat(auto-fit, minmax(12rem, 1fr))'
+      },
+      colors: {
+        background: 'var(--background)',
+        primary: 'var(--primary)',
+        gradient1: 'var(--gradient1)',
+        gradient2: 'var(--gradient2)',
       }
     },
   },
